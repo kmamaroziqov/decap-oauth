@@ -1,0 +1,10 @@
+{
+  "name": "decap-oauth",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/auth.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "simple-oauth2": "^5.0.0"
+  }
+}
